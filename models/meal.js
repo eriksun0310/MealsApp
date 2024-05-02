@@ -1,4 +1,4 @@
-class Meal {
+ class Meal {
   constructor(
     id,
     categoryIds,
